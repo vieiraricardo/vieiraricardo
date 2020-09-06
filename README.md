@@ -1,6 +1,5 @@
 ### Hi there, i'm Ricardo! 👋
 
-- 🔭 I’m currently working on a side project
 - 🌱 I'm currently learning javascript on GoStack bootcamp at @rocketseat
 - 📫 How to reach me: hi@ricvieira.com
 
