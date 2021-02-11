@@ -1,6 +1,5 @@
 ### Hi there, i'm Ricardo! 👋
 
-- 🌱 I'm currently learning javascript on GoStack bootcamp at @rocketseat
 - 📫 How to reach me: hi@ricvieira.com
 
 ![Ricardo's github stats](https://github-readme-stats.vercel.app/api?username=vieiraricardo&count_private=true)
