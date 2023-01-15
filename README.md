@@ -1,6 +1,6 @@
-### Hi there, i'm Ricardo! 👋
+### Hi there, i'm Ricardo, but you can call me Ric! 👋
 
-I am a developer passionate about web and mobile development and even more about hacking.
+ I'm a brazilian software developer (🇧🇷) passionate about technology. I work with web, blockchain and mobile development. 
 
 - 📫 How to reach me: hi@ricvieira.com
 
